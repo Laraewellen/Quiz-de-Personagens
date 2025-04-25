@@ -43,7 +43,7 @@ Este projeto foi desenvolvido em grupo como parte de uma atividade avaliativa da
 
 ## 📷 Demonstração
 
-![screenshot do projeto](./imagens/preview.png)
+![screenshot do projeto](./imagens/Quiz_de_Personagens.gif)
 
 ---
 
