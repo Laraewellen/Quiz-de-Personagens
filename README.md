@@ -52,3 +52,24 @@ Este projeto foi desenvolvido em grupo como parte de uma atividade avaliativa da
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/quiz-personalidade-javascript.git
+2. Acesse a pasta do projeto:
+     ```bash
+   cd quiz-personalidade-javascript
+3. Execute o projeto abrindo o arquivo index.html no seu navegador:
+
+- Clique duas vezes no arquivo index.html
+
+- Ou arraste o arquivo para uma aba do navegador
+
+- Ou use uma extensão como Live Server (no VS Code)
+
+📌 Não é necessário instalar nenhuma dependência — o projeto roda 100% no navegador.
+
+## 🧩 Organização do Projeto
+- index.html → Estrutura da página
+
+- style.css → Estilos da interface
+
+- script.js → Lógica do quiz e interação com o DOM
+
+- imagens/ → Avatares dos personagens e fundo da página
